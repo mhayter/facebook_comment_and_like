@@ -4,7 +4,7 @@ import json
 import random
 
 #Insert your personalized token here
-TOKEN = 'CAACEdEose0cBAECRnbC5VmITg4bMZCpZAOjwgDIK8whJuY4P3vP8sUz5qZC0CVNDhOuu8DScIwxQMclre8vZCSg7QjFqB6pQaWjqI64p3Q8ivuhXJYyOlnnTzMjomq6qGt32A7gXbPkYPYL6aVIYH7HdmLx08Ljs8CNghgx8kZBRrQwff6OMkrdXy6yZATOwNZBrjBxzNDg4AZDZD'
+TOKEN = '<insert token>'
 
 #Insert desired phrases here
 PHRASES = ['#hellyeah', '#killinit', '#goblue', 'the man']; 
